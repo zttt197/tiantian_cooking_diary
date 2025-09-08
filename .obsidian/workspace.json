@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "522b5e8485114bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c471393ef1982b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9ef6897ed1e6d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c18cadc07256903",
+    "type": "split",
+    "children": [
+      {
+        "id": "a205e391b5de5489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd98971bc962e8a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eae60f98053a05cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fee8036eed4c8eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52285271928761ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58e96e97a3ae6bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746dcce01695d52f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4da3e8d9084d3e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19e4d36080356339",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe9eb34a9209fa6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dd98971bc962e8a7",
+  "lastOpenFiles": [
+    "dishes/炒鸡毛菜/鸡毛菜.md",
+    "common/煮饭/煮饭加水比例.md",
+    "dishes/炒鸡毛菜",
+    "dishes/番茄炒蛋/番茄炒蛋注释事项.md",
+    "common/煮饭",
+    "common",
+    "dishes/番茄炒蛋/番茄炒蛋.md.md",
+    "十大.md",
+    "dishes/番茄炒蛋",
+    "dishes"
+  ]
+}
